@@ -1,3 +1,6 @@
 {
-	"name" : "f4bi0/php_htable"
+	"name" : "f4bi0/php_htable",
+	"autoload" : {
+		"psr-4": {"F4bi0\\": ""}	
+	}
 }

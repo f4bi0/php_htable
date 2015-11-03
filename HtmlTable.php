@@ -1,4 +1,6 @@
 <?php
+namespace F4bi0;
+
 class HtmlTable{
 	
 	private $data = array();

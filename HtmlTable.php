@@ -7,7 +7,9 @@ class HtmlTable{
 		
 	}
 	
-
+	function teste(){
+	
+	}
 	
 	function data(array $data){
 		$this->data = $data;
